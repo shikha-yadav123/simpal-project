@@ -1,0 +1,68 @@
+body{
+  background:
+   radial-gradient(at 50% 0, gray, transparent 70%),
+    linear-gradient(0deg, cyan, transparent 50%) bottom;
+background-repeat: no-repeat;
+            
+}
+.container{
+    text-align: center;
+    margin-top:15px
+
+}
+
+table{
+    margin: auto;
+
+}
+
+input{
+    border-radius: 21px;
+  border: 2px solid #244624;*/
+   
+
+/*box-shadow: inset 0px 33px 25px 0 #000, 
+            inset 0 66px 15px 0px #ccc,
+            inset 0 99px 5px 0px #fff;*/
+    font-size:30px;
+    height: 40px;
+    width: 250px;
+}
+
+button{
+    border-radius: 50px;
+    font-size: 30px;
+   /* background: #1d1f20;*/
+/*background:
+    radial-gradient(at 50% 0, gray, transparent 70%),
+    linear-gradient(0deg, cyan, transparent 50%) bottom;*/
+
+
+/*box-shadow: inset 0px 33px 25px 0 #000, 
+            inset 0 66px 15px 0px #ccc,
+            inset 0 99px 5px 0px #fff;*/
+    width: 50px;
+    height: 55px;
+    margin: 2px;
+
+}
+
+.calculator{ 
+ border: 2px solid #244624;
+    box-shadow: 5px 5px 5px 5px gray;
+
+
+
+    /*background: white;*/
+    padding: 20px;
+    border-radius: 50px;
+    display: inline-block;
+    background:
+    radial-gradient(at 50% 0, pink, transparent 70%),
+    linear-gradient(0deg, lightyellow, transparent 50%) bottom;
+}
+
+h1{
+    font-size: 28px;
+    font-family: 'Courier New', Courier, monospace;
+}
